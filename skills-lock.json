@@ -1,0 +1,197 @@
+{
+  "version": 1,
+  "skills": {
+    "auto-research": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/auto-research/SKILL.md",
+      "computedHash": "a7485324a3ef1a4854754d175537c6088ebd8edd3da743559475ea73299e7dac"
+    },
+    "braindump": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/braindump/SKILL.md",
+      "computedHash": "adf9d76880236a1a1220cd572f47bc949a857e0b684c9f886302203b68aacc43"
+    },
+    "closed-loop": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/closed-loop/SKILL.md",
+      "computedHash": "f4b47779b7944786fd89498169386da2af3c4bc9f612b39593f8d85633a2e8a4"
+    },
+    "comprehensive-analysis": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/comprehensive-analysis/SKILL.md",
+      "computedHash": "d4d30efcb364668c6beeae55f4710694bb8b4d78253ebb96b1919b6af856d8af"
+    },
+    "content-factory": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/content-factory/SKILL.md",
+      "computedHash": "9be330cd156be89d41dcb4994199c03e717125e8702424a36740d0db3968b113"
+    },
+    "create-user-story": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/create-user-story/SKILL.md",
+      "computedHash": "a4d8e8a886fb41ce3cc5eaddd7484208d9a653d5dfec8526c30e1e7e569b4117"
+    },
+    "daily-brief": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/daily-brief/SKILL.md",
+      "computedHash": "889062b9dbedf34c9e20737f89860f47d00da2152923b8a5b72c269b994e39ca"
+    },
+    "daily-journal": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/daily-journal/SKILL.md",
+      "computedHash": "d5ff40ad1c66d01cf5b71976305aaa0bfc11db2b9e3f7feefcfb2312e1917296"
+    },
+    "data-forms": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/data-forms/SKILL.md",
+      "computedHash": "24fce6b5470100c7d95bc207d09eb4bd2d1dfc2ff746441ea306adaf36658143"
+    },
+    "editorial-illustrations": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/editorial-illustrations/SKILL.md",
+      "computedHash": "c0968dad465149c8f2336439d55176c6daf3cd7fd40cf2052d6a263378ac83a5"
+    },
+    "export-open-issues": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/export-open-issues/SKILL.md",
+      "computedHash": "d1c9f8f57f42aa09e46385ece11b21f5ade1d5ede1df5f3b9c6b6368cc0e0151"
+    },
+    "generate-prd": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/generate-prd/SKILL.md",
+      "computedHash": "2b98b81892338c6af06ec3acea70b6539cddbf82b8b2068475c09a1b075c6b72"
+    },
+    "generate-release-notes": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/generate-release-notes/SKILL.md",
+      "computedHash": "0a0db5364dc3e7711d66f0853361167fa683e4b31e24bbcdeb7f4c67b6f278ba"
+    },
+    "harvest": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/harvest/SKILL.md",
+      "computedHash": "44b75c80200c2dcf2f3d7a2b12d98ad50dd54e9da0d0839d6094cd29a9f22ae3"
+    },
+    "knowledge-consolidation": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/knowledge-consolidation/SKILL.md",
+      "computedHash": "52a63a18c9aec57735f137f8b7f4fd9ae20dd24ee9fe5c6b4b922336a47d9d8e"
+    },
+    "loop-engineering": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/loop-engineering/SKILL.md",
+      "computedHash": "def0466e6256b3a835c98c95564a9d4832c7fbe5cbe84157603af14fbcb04583"
+    },
+    "meeting-transcript": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/meeting-transcript/SKILL.md",
+      "computedHash": "d4dacb3a98f9d2ac8dcbff2b184278e7f037fb8dd24516c9248376a32076b050"
+    },
+    "memory-hygiene": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/memory-hygiene/SKILL.md",
+      "computedHash": "6309b71b0b93edab2201aab3b2744ef0b212ca7494ce35511995bc7df1cfad4c"
+    },
+    "museum-art": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/museum-art/SKILL.md",
+      "computedHash": "21f468af9be074f4b28027a4cad4625242a380618797242a3b275ff09c233146"
+    },
+    "no-ai-slop": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/no-ai-slop/SKILL.md",
+      "computedHash": "e5eadba5f0495eaaab4c54a6586908c675c14d1692e5c60f67bb06f1763fcaaa"
+    },
+    "onboarding": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/onboarding/SKILL.md",
+      "computedHash": "79ae36eee42e85c7d5d8313cf2d9f9633085e65e71c368fa230a552cab115fd4"
+    },
+    "product-ui-taste": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/product-ui-taste/SKILL.md",
+      "computedHash": "f5fa6ccd04fb136406cbd8acf804e1710a99fb445eed1b763ec9117f6ec1c3b6"
+    },
+    "publish-to-confluence": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/publish-to-confluence/SKILL.md",
+      "computedHash": "334fe7af39a6ac2aca2726389b573a04dd1af1de9dbfd250b1ddefe02339082b"
+    },
+    "retro": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/retro/SKILL.md",
+      "computedHash": "dafd95fb9c5fb25f070dfedb6d44f1df3f6a4561257b3eb06ca1f6fc842c92ec"
+    },
+    "scout": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/scout/SKILL.md",
+      "computedHash": "a5592935e9b12b1e0886895f10f9472e1a41f599756f6d51c939744809cd7a15"
+    },
+    "taste-skill": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/taste-skill/SKILL.md",
+      "computedHash": "4f24b0017c179ed1c7a7c87d49e62f03a50f29601aee68b2a2572efc5fe58b09"
+    },
+    "team-brief": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/team-brief/SKILL.md",
+      "computedHash": "2e75d38d764bebe2d823675f6d551ed0b5f7c7388e455f81524001a70454efdc"
+    },
+    "ultragoal": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/ultragoal/SKILL.md",
+      "computedHash": "64a557a48b7e6736681f50dbeddf63d9b667ab0094e78c6c2fa2793be7b46605"
+    },
+    "update-cog": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/update-cog/SKILL.md",
+      "computedHash": "c14b91a36f649b2c55b26e4f8cc8d219c0397819b7ee43adcab46d9ee285ff8a"
+    },
+    "update-knowledge-base": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/update-knowledge-base/SKILL.md",
+      "computedHash": "76d4d1a03b9969335226cb64e15f55fc272ccde270b454f5e90b89da7d980590"
+    },
+    "url-dump": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/url-dump/SKILL.md",
+      "computedHash": "242b0e5c726f645d10b6b1cac025f75ad815bf9c79183d014a955eaa840cc2b4"
+    },
+    "weekly-checkin": {
+      "source": "huytieu/COG-second-brain",
+      "sourceType": "github",
+      "skillPath": "skills/weekly-checkin/SKILL.md",
+      "computedHash": "29b8c3ffcb96a8779bb8214ee0473acda8bcf8856e02869d256bd149a177a038"
+    }
+  }
+}
