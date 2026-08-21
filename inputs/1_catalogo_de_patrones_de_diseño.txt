@@ -1,0 +1,80 @@
+Catalogo de patrones de diseño.
+Los patrones GoF son 23 y se dividen en creacionales, estructurales y de comportamiento.
+Los patrones se clasifican de acuerdo al proposito(Que hace un patron):
+1.- Creacion: Creacion de objetos
+2.- Estructural: Composicion de clases u objetos.
+3.- Comportamiento: Modo en que las clases u objetos interactuan y se reparten la resposabilidad.
+
+Creacionales: Singleton, Factory Method, Abstract Factory, Builder, Prototype.
+Estructurales: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy.
+Comportamiento: Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, Visitor.
+
+Abstract Factory (Fabrica abstracta).
+	Proporciona una interfaz para crear familias de objetos relaciondos o que dependen entre si, 
+	sin especificar sus clases concretas.
+Adapter(Adaptador).
+	Convierte la interz de una clase en otra distinta que es la que esperan los clientes . 
+	Permite que cooperen las clases  que de otra manera no podrian por tener interfaces incompatibles.
+Brigue(Puente).
+	Desacopla una abstraccion de su implementacion, de manera que ambas puedas variar de forma independiente.
+Builder (Contructor).
+	Separa la construccion de un objeto complejo de su representacion, de forma que el mismo proceso de construccion 
+	pueda crear diferentes representaciones.
+Chain of Responsibility (Cadena de responsabilidad).
+	Evita acoplar el emisor de una peticion a su receptor, al dar a mas de un objeto la responsabilidad de 	
+	responder la peticion. Crea una cadena con los objetos receptores y pasa la peticion a traves de la
+	cadena hasta que esta sea tratada por algun objeto.
+Command(orden).
+	Encapsula una peticion en un objeto, permitiendo asi parametrizar a los clientes con distintas peticiones,
+	encolar o llevar un registro de las peticiones y poder deshacer las operaciones.
+Composite(compuesto).
+	Conbina objetos en estructuras de arbol para respresentar jerarquias de parte-todo. Permite que los clientes
+	traten de manera uniforme a los objetos individuales y a los copuestos.
+Decorator (Decorador).
+	Añade dinamicamente nuevas responsabilidades a un objeto, proporcionando una alternativa flexible a la 
+	herencia para extender la funcionalidad.
+Facade (Fachada)
+	Porporciona una interfaz unificada para un conjunto de interfaces de un subsistema. Define una interfaz 
+	de alto nivel que hace que el subsistema sea mas facil de usar.
+Factory Method (Metodo de fabricacion ).
+	Define una interfaz para crear un objeto, pero deja que sean las subclases quienes decidan que clases
+	instanciar. Permie que una clase delegue en sus subclases la creacion de objetos.
+Flyweight (Peso ligero).
+	Usa el compartimiento para permitir un gran numero de objetos de grano fino de forma eficiente.
+Interpreter (Interprete).
+	Dado un lenguaje, define una representacion de su gramatica junto con un interprete que usa dicha 
+	representacion para interpretar sentencias del lenguaje.
+Iterator (Iterador).
+	Proporciona un modo de acceder secuencialemte a los elemento de un objeto agregado sin exponer su
+	representacion interna.
+Mediator (Mediador).
+	Define un objeto que encapsula como interactuan un conjuntos de objetos. Promueve un bajo acoplamiento
+	al evitar que los objetos se refieran uno a otros explicitamente, y permite variar la interaccion entre
+	ellos de forma independiente.
+Memento (Recuerdo).
+	Representa y externaliza el estado interno de un objeto sin violar la encapsulacion, de forma que este
+	pueda volver a dicho estado mas tarde.
+Observer (Observador).
+	Define una dependencia de uno-a-muchos entre objetos, de forma que cuando un objeto cambie de estado se
+	notifica o se actualizan automaticamente todos los objetos que dependan de el.
+Prototype (Prototipo).
+	Especifica los tipos de objetos a crear por medio de una  instancia prototipica y crean nuevos objetos 
+	copiando de este prototipo.
+Proxy (Apoderado).
+	Proporciona un sustituto o representante de otro objeto para controlar el acceso a este.
+Singleton (Unico).
+	Garantiza que una clase solo tenga una instancia, y proporciona un punto de acceso global a ella.
+State (estado).
+	Permite que un objeto modifique su comportamiento cada vez que cambie su estado interno. Parecera 
+	que cambia la clase del objeto.
+Strategy (Estrategia).
+	Define una familia de algoritmos, encapsula cada uno de ellos y lo s hace intercambiables. 
+	Permite que un algoritmo varie independientemente de los clientes que lo usan.
+Template Method (Metodo Plantilla).
+	Define en una operacion el esqueleto de un algoritmo, delegando en las subclases algunos de sus pasos.
+	Permite que las subclases redefinan ciertos pasos del algoritmo sin cambiar su etructura.
+Visitor (Visitante).
+	Representa una operacion sobre los elementos de una estructura de objetos. Permite definir una nueva
+	operacion sin cambiar las clases de los elementos sobre los que opera.
+	
+Quiero entender realmente cuándo usar cada uno y cuándo no usarlo.

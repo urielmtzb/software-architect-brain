@@ -145,3 +145,6 @@ vite.config.ts.timestamp-*
 # Agent directories
 .agents/
 .claude/
+
+# Obsidian Files
+.obsidian/
